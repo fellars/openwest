@@ -1,0 +1,3 @@
+[submodule "tip"]
+	path = tip
+	url = git@github.com:fellars/openside.git

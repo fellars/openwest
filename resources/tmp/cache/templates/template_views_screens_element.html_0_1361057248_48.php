@@ -1,1 +1,0 @@
-<?php echo $this->layout->element($_control_);?>
